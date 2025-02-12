@@ -30,6 +30,8 @@ public class ESPGame {
 		
 		System.out.println("CMSC203 Assignment1: Test your ESP skills!");
 		System.out.println("Welcome to ESP - extrasensory perception!");
+
+		//Uses a do-while loop because it wants to prompt the user to play at least once.
 		do
 		{		
 			//Gives the user all the options and then allows them to play the game if they wish.
